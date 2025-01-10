@@ -16,7 +16,7 @@ I especially enjoy roles that blend technical depth with resource management and
 - 🎓 Earned a **Master’s in Computer Science** from the Faculty of Electrical Engineering, Osijek
 - 🏆 Former **Professional Volleyball Player** with a track record of international and national awards - ![Volleybox Profile](https://volleybox.net/josip-vojak-p10964/clubs)
 - 🔧 Skilled in **system design**, **software architecture**, and **DevSecOps**
-- 💼 Actively seeking **remote opportunities** in **software engineering**, **architecture**, and **DevOps**
+- 💼 Actively seeking **remote opportunities** in **engineering management** and **software engineering**, and **DevOps**
 
 ---
 
