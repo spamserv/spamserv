@@ -66,7 +66,7 @@ Here are some of the projects I work on, whenever I find time
 |------------------------|-------------------------------------------------------|
 | ![**Oxidize**](https://github.com/spamserv/oxidize)          | Implementation of a single blockchain in Rust, while learning Rust.           |
 | ![**Vortex**](https://github.com/spamserv/cryptomania) | Crypto fantasy league implementing using GenAI & AgenticAI to understand its power.            |
-| ![**LeetCode75](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions. |
+| ![**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions. |
 
 ## 🤝 **Let’s Connect!**
 
