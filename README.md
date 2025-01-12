@@ -14,7 +14,7 @@ I especially enjoy roles that blend technical depth with resource management and
 
 - 🌍 Based in **La Spezia, Italy**
 - 🎓 Earned a **Master’s in Computer Science** from the Faculty of Electrical Engineering, Osijek
-- 🏆 Former **Professional Volleyball Player** with a track record of international and national awards - ![Volleybox Profile](https://volleybox.net/josip-vojak-p10964/clubs)
+- 🏆 Former **Professional Volleyball Player** with a track record of international and national awards - [Volleybox Profile](https://volleybox.net/josip-vojak-p10964/clubs)
 - 🔧 Skilled in **system design**, **software architecture**, and **DevSecOps**
 - 💼 Actively seeking **remote opportunities** in **engineering management** and **software engineering**, and **DevOps**
 
@@ -53,7 +53,7 @@ Things I've been working on for the past years...
 
 ## 📚 **Certifications**
 
-🏅 **AWS Solutions Architect Associate (SAA-C03)** — Valid from Nov 2023 to Nov 2026
+🏅 [**AWS Solutions Architect Associate (SAA-C03)**](https://www.credly.com/badges/1a5a5157-bda8-43ee-b3f9-071fa32cb62f/linked_in_profile) — Valid from Nov 2023 to Nov 2026
 
 ---
 
@@ -64,9 +64,10 @@ Here are some of the projects I work on, whenever I find time
 
 | **Project**           | **Description**                                       | 
 |------------------------|-------------------------------------------------------|
-| ![**Oxidize**](https://github.com/spamserv/oxidize)          | Implementation of a single blockchain in Rust, while learning Rust.           |
-| ![**Vortex**](https://github.com/spamserv/cryptomania) | Crypto fantasy league implementing using GenAI & AgenticAI to understand its power.            |
-| ![**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions. |
+| [**Oxidize**](https://github.com/spamserv/oxidize)          | Implementation of a single blockchain in Rust, while learning Rust.           |
+| [**Vortex**](https://github.com/spamserv/cryptomania) | Crypto fantasy league implementing using GenAI & AgenticAI to understand its power.            |
+| [**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions. |
+| [**JosipVojak.com**](https://josipvojak.com) | Blog on medium, topics: Software architecture, design, engineering, new technologies, crypto projects, web3, trading, investments. |
 
 ## 🤝 **Let’s Connect!**
 
