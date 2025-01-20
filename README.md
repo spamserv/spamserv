@@ -68,6 +68,7 @@ Here are some of the projects I work on, whenever I find time
 | [**Vortex**](https://github.com/spamserv/vortex) | Crypto fantasy league, usage of GenAI & AgenticAI to understand its power.            |
 | [**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions for funz. |
 | [**JosipVojak.com**](https://josipvojak.com) | Blog on medium, topics: Software architecture, design, engineering, new technologies, crypto projects, web3, trading, investments. |
+| [**Arteest**](https://github.com/spamserv/arteest) | Crypto trading bot, with focus on executing my manual strategy that seems to be working fine. |
 
 ## 🤝 **Let’s Connect!**
 
