@@ -1,7 +1,7 @@
 # 👋 Hello, I'm **Josip Vojak**!
 
-Welcome to my GitHub profile! I’m a dedicated **Software Architect** with over a decade of experience designing and implementing scalable, reliable software solutions. 
-My expertise spans **backend development**, **DevOps**, and **cloud computing**. Explore this profile to discover the skills and achievements I’ve developed throughout my career in **Node.js**, **Laravel**, **Rust**, **AWS**, **Docker**, and more.
+I’m a **Software Architect** with 9+ years of experience wireframing, scoping, designing, developing, implementing, integrating, scaling, testing, debugging and maintaining various software solutions. 
+My technical expertise is mostly in **backend development**, **DevOps**, and **cloud computing**, although I worked with **iOS** and frontend as well. Check out my profile and see the skills and achievements I’ve developed throughout my career in **Node.js**, **Laravel**, **Rust**, **AWS**, **Docker**, and more.
 
 Having worked in R&D settings, agencies, and as an independent contractor, I understand how to adapt to different team dynamics and project requirements. 
 I especially enjoy roles that blend technical depth with resource management and strategic planning, such as **engineering management**.
@@ -26,7 +26,7 @@ I especially enjoy roles that blend technical depth with resource management and
 |------------------------|-------------------------------------------------------|
 | **Languages**          | JavaScript, TypeScript, Swift, PHP, Rust, C            |
 | **Frameworks** | Node.js, Express, Laravel, Vue.js, Tailwind/DaisyUI           |
-| **Cloud & DevOps**     | AWS, Docker, Heroku, Cloudflare, Firebase, Linux (RHEL, Ubuntu), Serverless     |
+| **Cloud & DevOps**     | AWS, Docker, Heroku, Cloudflare, Firebase, Linux (RHEL, Ubuntu), Serverless, HaProxy     |
 | **Monitoring**         | Prometheus, Grafana, Mosquitto, Kafka, VerneMQ, Loki               |
 | **Databases**          | PostgreSQL, MariaDB, MySQL, MongoDB, TimescaleDB, Redis |
 | **Tools**              | Swagger, Postman, OCPP, OpenAPI |
