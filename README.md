@@ -24,11 +24,12 @@ I especially enjoy roles that blend technical depth with resource management and
 
 | **Category**           | **Technologies**                                       |
 |------------------------|-------------------------------------------------------|
-| **Languages**          | JavaScript, TypeScript, Swift, Rust, C, PHP           |
-| **Frameworks & Tools** | Node.js, Laravel, Vue.js, Swagger, Postman            |
-| **Cloud & DevOps**     | AWS, Docker, Heroku, Cloudflare, Firebase, Linux     |
-| **Monitoring**         | Prometheus, Grafana, Mosquitto, Kafka, VerneMQ                 |
+| **Languages**          | JavaScript, TypeScript, Swift, PHP, Rust, C            |
+| **Frameworks** | Node.js, Express, Laravel, Vue.js, Tailwind/DaisyUI           |
+| **Cloud & DevOps**     | AWS, Docker, Heroku, Cloudflare, Firebase, Linux (RHEL, Ubuntu), Serverless     |
+| **Monitoring**         | Prometheus, Grafana, Mosquitto, Kafka, VerneMQ, Loki               |
 | **Databases**          | PostgreSQL, MariaDB, MySQL, MongoDB, TimescaleDB, Redis |
+| **Tools**              | Swagger, Postman, OCPP, OpenAPI |
 
 ---
 
