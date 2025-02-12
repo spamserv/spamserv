@@ -70,6 +70,7 @@ Here are some of the projects I work on, whenever I find time
 | [**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions for funz. |
 | [**JosipVojak.com**](https://josipvojak.com) | Blog on medium, topics: Software architecture, design, engineering, new technologies, crypto projects, web3, trading, investments. |
 | [**Arteest**](https://github.com/spamserv/arteest) | Crypto trading bot, with focus on executing my manual strategy that seems to be working fine. |
+| [**gitguardian**](https://github.com/spamserv/gitguardian) | Maintains a "Top Star Github Profile" based on the activity distribution configuration. (commits, PRs, reviews, issues). |
 
 ## 🤝 **Let’s Connect!**
 
