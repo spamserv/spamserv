@@ -63,14 +63,15 @@ Things I've been working on for the past years...
 
 Here are some of the projects I work on, whenever I find time
 
-| **Project**           | **Description**                                       | 
-|------------------------|-------------------------------------------------------|
-| [**Oxidize**](https://github.com/spamserv/oxidize)          | Implementation of a simple blockchain in Rust, while learning Rust.           |
-| [**Vortex**](https://github.com/spamserv/vortex) | Crypto fantasy league, usage of GenAI & AgenticAI to understand its power.            |
-| [**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions for funz. |
-| [**JosipVojak.com**](https://josipvojak.com) | Blog on medium, topics: Software architecture, design, engineering, new technologies, crypto projects, web3, trading, investments. |
-| [**Arteest**](https://github.com/spamserv/arteest) | Crypto trading bot, with focus on executing my manual strategy that seems to be working fine. |
-| [**gitguardian**](https://github.com/spamserv/gitguardian) | Maintains a "Top Star Github Profile" based on the activity distribution configuration. (commits, PRs, reviews, issues). |
+| **Project**           | **Description**                                       |  **Technology** |
+|------------------------|-------------------------------------------------------|-----------------|
+| [**Oxidize**](https://github.com/spamserv/oxidize)          | Implementation of a simple blockchain in Rust, while learning Rust. | Rust |
+| [**Vortex**](https://github.com/spamserv/vortex) | Crypto fantasy league, usage of GenAI & AgenticAI to understand its power. | VueJS, Rust, DaisyUI |
+| [**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions for funz. | Javascript |
+| [**JosipVojak.com**](https://josipvojak.com) | Blog on medium, topics: Software architecture, design, engineering, new technologies, crypto projects, web3, trading, investments. | Blog |
+| [**Arteest**](https://github.com/spamserv/arteest) | Crypto trading bot, with focus on executing my manual strategy that seems to be working fine. | NodeJS, VueJS, Tailwind |
+| [**gitguardian**](https://github.com/spamserv/gitguardian) | Maintains a "Top Star Github Profile" based on the activity distribution configuration. (commits, PRs, reviews, issues). | Rust |
+| [**fluxer**](https://github.com/spamserv/fluxer) | A Solana-based indexer to track token swaps on Raydium DEX. Provides a simple API to query swap data. | Rust, PostgreSQL, Solana SDK, Helius, Websockets, RPC |
 
 ## 🤝 **Let’s Connect!**
 
