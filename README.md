@@ -1,22 +1,18 @@
 # 👋 Hello, I'm **Josip Vojak**!
 
-I’m a **Software Architect** with 9+ years of experience wireframing, scoping, designing, developing, implementing, integrating, scaling, testing, debugging and maintaining various software solutions. 
-My technical expertise is mostly in **backend development**, **DevOps**, and **cloud computing**, although I worked with **iOS** and frontend as well. Check out my profile and see the skills and achievements I’ve developed throughout my career in **Node.js**, **Laravel**, **Rust**, **AWS**, **Docker**, and more.
+I’m a **Software Architect** with 9+ years of experience in wireframing, scoping, designing, developing, implementing, integrating, scaling, testing, debugging, and maintaining various software solutions. 
+My technical expertise is mostly in **backend development**, **DevOps**, and **cloud computing**, although I also worked with **iOS** and frontend. Check out my profile and see the skills and achievements I’ve developed throughout my career in **Node.js**, **Laravel**, **Rust**, **AWS**, **Docker**, and more.
 
 Having worked in R&D settings, agencies, and as an independent contractor, I understand how to adapt to different team dynamics and project requirements. 
 I especially enjoy roles that blend technical depth with resource management and strategic planning, such as **engineering management**.
-
-**P.S. I am looking for Engineering Manager jobs exclusively.**
 
 ---
 
 ## 🧑‍💻 **About Me**
 
-- 🌍 Based in **La Spezia, Italy**
-- 🎓 Earned a **Master’s in Computer Science** from the Faculty of Electrical Engineering, Osijek
-- 🏆 Former **Professional Volleyball Player** with a track record of international and national awards - [Volleybox Profile](https://volleybox.net/josip-vojak-p10964/clubs)
 - 🔧 Skilled in **system design**, **software architecture**, and **DevSecOps**
 - 💼 Actively seeking **remote opportunities** in **engineering management** and **software engineering**, and **DevOps**
+- 🏆 Former **Professional Volleyball Player** international and national awards - [Volleybox Profile](https://volleybox.net/josip-vojak-p10964/clubs)
 
 ---
 
@@ -38,7 +34,7 @@ Things I've been working on for the past years...
 
 ### **Technical Expertise**
 - **Optimized CI/CD pipelines** to reduce build times by nearly **40%**, enhancing development efficiency.
-- Designed and implemented a **cloud-native EV charging management system**, managing 30+ stations with AWS ECS and Terraform. Reduced setup time from several days to just **30 minutes**.
+- Designed and implemented a **cloud-native EV charging management system**, managing 30+ stations with AWS ECS and Terraform and reduced setup time from several days to just **30 minutes**.
 - Led the migration of a legacy system to a **containerized architecture**, improving scalability and reducing operational overhead.
 - Built **automation scripts** that accelerated testing by a factor of **10x**, streamlining quality assurance processes.
 - Developed a **real-time communication platform** using Node.js, capable of handling thousands of simultaneous user connections.
@@ -70,7 +66,7 @@ Here are some of the projects I work on, whenever I find time
 | [**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions for funz. | Javascript |
 | [**JosipVojak.com**](https://josipvojak.com) | Blog on medium, topics: Software architecture, design, engineering, new technologies, crypto projects, web3, trading, investments. | Blog |
 | [**Arteest**](https://github.com/spamserv/arteest) | Crypto trading bot, with focus on executing my manual strategy that seems to be working fine. | NodeJS, VueJS, Tailwind |
-| [**gitguardian**](https://github.com/spamserv/gitguardian) | Maintains a "Top Star Github Profile" based on the activity distribution configuration. (commits, PRs, reviews, issues). | Rust |
+| [**gitguardian**](https://github.com/spamserv/gitguardian) | Maintains a "Top Star GitHub Profile" based on the activity distribution configuration. (commits, PRs, reviews, issues). | Rust |
 | [**fluxer**](https://github.com/spamserv/fluxer) | A Solana-based indexer to track token swaps on Raydium DEX. Provides a simple API to query swap data. | Rust, PostgreSQL, Solana SDK, Helius, Websockets, RPC |
 
 ## 🤝 **Let’s Connect!**
@@ -81,7 +77,7 @@ Here are some of the projects I work on, whenever I find time
 
 ### 🏗️ **Future Plans**
 I’m committed to staying at the forefront of software development by continually exploring new technologies and methodologies. 
-Currently, I’m focused in gaining knowledge in **blockchain**, **Web3**, **Rust** and **Kubernetes**. If you have exciting projects or collaborations in mind, don’t hesitate to reach out!
+Currently, I’m focused on gaining knowledge in **blockchain**, **Web3**, **Rust** and **Kubernetes**. If you have exciting projects or collaborations in mind, don’t hesitate to reach out!
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=spamserv)
