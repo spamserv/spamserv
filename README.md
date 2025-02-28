@@ -33,16 +33,16 @@ I especially enjoy roles that blend technical depth with resource management and
 Things I've been working on for the past years...
 
 ### **Technical Expertise**
-- **Optimized CI/CD pipelines** to reduce build times by nearly **40%**, enhancing development efficiency.
-- Designed and implemented a **cloud-native EV charging management system**, managing 30+ stations with AWS ECS and Terraform and reduced setup time from several days to just **30 minutes**.
+- **Optimized and improved various CI/CD pipelines** to reduce build times by nearly **40%**, enhancing development efficiency.
+- Designed and implemented a **cloud-native service-oriented event-driven EV charging management system**, managing 30+ OCPP stations with AWS ECS and AWS SDK and reduced setup time from several days to just **30 minutes** [EVrez](https://www.anl.gov/partnerships/evrez-charge-station-management-systemev-charge-reservation-platform).
 - Led the migration of a legacy system to a **containerized architecture**, improving scalability and reducing operational overhead.
-- Built **automation scripts** that accelerated testing by a factor of **10x**, streamlining quality assurance processes.
-- Developed a **real-time communication platform** using Node.js, capable of handling thousands of simultaneous user connections.
+- Implemented micro-loans, current accounts, change savings and QR code bar payments for the fintech app - [KeksPay](https://kekspay.hr) in Swift(iOS).
+- Developed a **real-time communication platform** using Node.js, capable of handling thousands of simultaneous user connections and CS:GO docker-base server automation scripts.
 
 ### **People Management**
 - Supervised **engineering teams** ranging from **2 to 12 developers** across more than 15 projects, ensuring quality deliverables and timely completion.
 - Created **standardized project templates** and documentation frameworks, cutting project onboarding time by up to **40%**.
-- Conducted **structured code reviews** and led **pair programming sessions** to improve code quality and promote continuous learning among team members.
+- Conducted **structured code reviews** and **pair programming sessions** to improve code quality and promote continuous learning among team members.
 - Mentored junior developers in **system design**, **API development**, and **DevOps best practices**, fostering growth and improving team capabilities.
 - Coordinated **remote teams** across various time zones, maintaining clear communication and seamless collaboration.
 
@@ -76,8 +76,7 @@ Here are some of the projects I work on, whenever I find time
 ---
 
 ### 🏗️ **Future Plans**
-I’m committed to staying at the forefront of software development by continually exploring new technologies and methodologies. 
-Currently, I’m focused on gaining knowledge in **blockchain**, **Web3**, **Rust** and **Kubernetes**. If you have exciting projects or collaborations in mind, don’t hesitate to reach out!
+Currently, I’m focused on gaining knowledge in **blockchain** (mostly Solana), **Web3**, and **Rust**. If you have exciting projects or collaborations in mind, don’t hesitate to reach out!
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=spamserv)
