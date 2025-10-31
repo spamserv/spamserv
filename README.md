@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Josip Vojak**!
 
-I’m a **Software Architect** with 9+ years of experience in wireframing, scoping, designing, developing, implementing, integrating, scaling, testing, debugging, and maintaining various software solutions. 
+I’m a **Software Architect** with 10+ years of experience in wireframing, scoping, designing, developing, implementing, integrating, scaling, testing, debugging, and maintaining various software solutions. 
 My technical expertise is mostly in **backend development**, **DevOps**, and **cloud computing**, although I also worked with **iOS** and frontend. Check out my profile and see the skills and achievements I’ve developed throughout my career in **Node.js**, **Laravel**, **Rust**, **AWS**, **Docker**, and more.
 
 Having worked in R&D settings, agencies, and as an independent contractor, I understand how to adapt to different team dynamics and project requirements. 
@@ -51,6 +51,8 @@ Things I've been working on for the past years...
 ## 📚 **Certifications**
 
 🏅 [**AWS Solutions Architect Associate (SAA-C03)**](https://www.credly.com/badges/1a5a5157-bda8-43ee-b3f9-071fa32cb62f/linked_in_profile) — Valid from Nov 2023 to Nov 2026
+🏅 [**TOGAF Enterprise Architect**]([https://www.credly.com/badges/1a5a5157-bda8-43ee-b3f9-071fa32cb62f/linked_in_profile](https://www.credly.com/badges/5383bc3c-f43e-40dc-a5f4-a1b4f25cbed1/public_url)) — Valid from Aug 2025
+🏅 [**PRINCE2 Foundation**] — Valid from Aug 2025
 
 ---
 
@@ -76,7 +78,7 @@ Here are some of the projects I work on, whenever I find time
 ---
 
 ### 🏗️ **Future Plans**
-Currently, I’m focused on gaining knowledge in **blockchain** (mostly Solana), **Web3**, and **Rust**. If you have exciting projects or collaborations in mind, don’t hesitate to reach out!
+Currently, I’m focused on gaining knowledge in **blockchain** (mostly Solana), **Web3**, **Rust**, **RAG**, **MCP**. If you have exciting projects or collaborations in mind, don’t hesitate to reach out!
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=spamserv)
