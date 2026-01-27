@@ -1,7 +1,7 @@
 # 👋 Hello, I'm **Josip Vojak**!
 
 I’m a **Software Architect** with 10+ years of experience in wireframing, scoping, designing, developing, implementing, integrating, scaling, testing, debugging, and maintaining various software solutions. 
-My technical expertise is mostly in **backend development**, **DevOps**, and **cloud computing**, although I also worked with **iOS** and frontend. Check out my profile and see the skills and achievements I’ve developed throughout my career in **Node.js**, **Laravel**, **Rust**, **AWS**, **Docker**, and more.
+My technical expertise is mostly in **software architecture**, **solution architecture**, **DevOps**, and **cloud computing**, although I also worked with **iOS** and frontend. Check out my profile and see the skills and achievements I’ve developed throughout my career in **Node.js**, **Laravel**, **Rust**, **AWS**, **Docker**, and more.
 
 Having worked in R&D settings, agencies, and as an independent contractor, I understand how to adapt to different team dynamics and project requirements. 
 I especially enjoy roles that blend technical depth with resource management and strategic planning, such as **engineering management**.
@@ -53,6 +53,7 @@ Things I've been working on for the past years...
 🏅 [**AWS Solutions Architect Associate (SAA-C03)**](https://www.credly.com/badges/1a5a5157-bda8-43ee-b3f9-071fa32cb62f/linked_in_profile) — Valid from Nov 2023 to Nov 2026
 🏅 [**TOGAF Enterprise Architect**]([https://www.credly.com/badges/1a5a5157-bda8-43ee-b3f9-071fa32cb62f/linked_in_profile](https://www.credly.com/badges/5383bc3c-f43e-40dc-a5f4-a1b4f25cbed1/public_url)) — Valid from Aug 2025
 🏅 [**PRINCE2 Foundation**] — Valid from Aug 2025
+🏅 [**Zero Trust Certification by Cloud Security Alliance**](https://www.credly.com/badges/f6434077-554f-4a2a-a405-3d794a181c64) — Valid from Jan 2026
 
 ---
 
@@ -64,10 +65,8 @@ Here are some of the projects I work on, whenever I find time
 | **Project**           | **Description**                                       |  **Technology** |
 |------------------------|-------------------------------------------------------|-----------------|
 | [**Oxidize**](https://github.com/spamserv/oxidize)          | Implementation of a simple blockchain in Rust, while learning Rust. | Rust |
-| [**Vortex**](https://github.com/spamserv/vortex) | Crypto fantasy league, usage of GenAI & AgenticAI to understand its power. | VueJS, Rust, DaisyUI |
-| [**LeetCode75**](https://github.com/spamserv/LeetCode75) | Attempt to resolve 75 filtered and known LeetCode questions for funz. | Javascript |
+| [**Collab.hr**](https://github.com/spamserv/collabdoo) | Collab.hr company website. | ReactJS |
 | [**JosipVojak.com**](https://josipvojak.com) | Blog on medium, topics: Software architecture, design, engineering, new technologies, crypto projects, web3, trading, investments. | Blog |
-| [**Arteest**](https://github.com/spamserv/arteest) | Crypto trading bot, with focus on executing my manual strategy that seems to be working fine. | NodeJS, VueJS, Tailwind |
 | [**gitguardian**](https://github.com/spamserv/gitguardian) | Maintains a "Top Star GitHub Profile" based on the activity distribution configuration. (commits, PRs, reviews, issues). | Rust |
 | [**fluxer**](https://github.com/spamserv/fluxer) | A Solana-based indexer to track token swaps on Raydium DEX. Provides a simple API to query swap data. | Rust, PostgreSQL, Solana SDK, Helius, Websockets, RPC |
 
@@ -78,7 +77,7 @@ Here are some of the projects I work on, whenever I find time
 ---
 
 ### 🏗️ **Future Plans**
-Currently, I’m focused on gaining knowledge in **blockchain** (mostly Solana), **Web3**, **Rust**, **RAG**, **MCP**. If you have exciting projects or collaborations in mind, don’t hesitate to reach out!
+I'm focused on software architecture, cloud infrastructure, automation, cybersecurity.
 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=spamserv)
